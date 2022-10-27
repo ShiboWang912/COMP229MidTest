@@ -1,4 +1,5 @@
 /* custom JS goes here */
+/* COMP229 – Web Application Development Mid-Term Test COMP229-F2022-MidTerm-301200419. Shibo Wang 301200419*/
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){
